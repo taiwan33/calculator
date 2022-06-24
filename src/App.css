@@ -1,0 +1,32 @@
+html{
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  text-align: center;
+  border-radius: 9px;
+  border: 2px solid;
+  margin: 20px 140px 10px 150px;
+
+}
+.first-row{
+    text-align: center;
+}
+.second-row{
+  text-align: center;
+}
+.third-row{
+  text-align: center;
+}
+button{
+  padding: 30px;
+  font-size: 19px;
+}
+input{
+  padding: 30px;
+  height: 13px;
+  width: 236px;
+  font-size: 20px;
+  text-align: right;
+  border: 2px solid;
+}
